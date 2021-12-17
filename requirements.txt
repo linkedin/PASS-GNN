@@ -1,0 +1,4 @@
+pytorch-gpu>=1.10
+numpy
+scipy
+scikit-learn
